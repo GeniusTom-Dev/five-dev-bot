@@ -1,0 +1,13 @@
+{
+  "access" : [{
+    "gestLink" : ["fonda", "manager", "admin"],
+    "ban" : ["fonda", "manager", "admin", "mod_plus"],
+    "kick" : ["fonda", "manager", "admin","mod_plus"],
+    "jail" : ["fonda", "manager", "admin", "mod_plus", "mod"],
+    "clear": ["fonda", "manager", "admin", "mod_plus"],
+    "setrole": ["fonda", "manager", "admin"],
+    "warn": ["fonda", "manager", "admin", "mod_plus", "mod","helper"]
+  }],
+
+  "listRole": ["helper", "mod", "mod_plus", "mod_manager", "admin", "manager", "fonda"]
+}

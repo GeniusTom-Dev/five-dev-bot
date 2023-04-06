@@ -1,0 +1,23 @@
+{
+  "ticketCat": "944273723916161064",
+  "ticketChannel": "943558777406390278",
+  "ticketLogs": "942826520634876033",
+
+  "roleChannel" : "944274094193537135",
+  "ruleChannel" : "943558777003724906",
+
+  "voiceCountChannel": "944274247902167151",
+  "staffListChannel": "944274357583233065",
+
+  "modLogs": "942826520634876034",
+
+
+  "searchChannel": ["944274896786190426","944591924906586122"],
+  "fluxChannel": "942826520139931677",
+
+  "welcomChannel": "944200185318359090",
+
+  "suggestionChannel": "944275121244368927",
+
+  "sanctionsLogsFD": "945020167233093702"
+}

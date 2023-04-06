@@ -1,0 +1,45 @@
+{
+  "emoji": [{
+    "global": "\uD83C\uDF10",
+    "pay": "\uD83D\uDCB8",
+    "candid": "\uD83D\uDCDD",
+    "certif": "\uD83D\uDCBE",
+    "signalMember": "\uD83D\uDCA5",
+    "signalStaff": "\uD83D\uDD25",
+    "signalBug": "\uD83E\uDDE9",
+    "gerant": "\uD83D\uDC51"}],
+
+  "mention": [{
+    "signalMember": "mod",
+    "certif": "dev_certif",
+    "signalStaff": "mod_manager",
+    "candid": "mod_manager"
+  }],
+
+  "perms": [{
+    "global": "staff",
+    "pay": "staff",
+    "signalBug": "staff",
+    "signalMember": "staff",
+
+    "certif": "dev_certif",
+    "signalStaff": "mod_manager",
+    "candid": "mod_manager",
+
+    "gerant": "manager"
+  }],
+
+  "categorie": [{
+    "global": "Question Global",
+    "pay": "Paiement",
+    "signalBug": "Signalement d'un Bug",
+    "signalMember": "Signalement d'un membre",
+
+    "certif": "Candidature de Certification",
+    "signalStaff": "Signalement d'un Staff",
+    "candid": "Candidature FiveDev",
+
+    "gerant": "Contacter les Fondateurs"
+  }]
+
+}
